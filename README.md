@@ -1,6 +1,10 @@
 ### React Native Dating app
 
+
+Exponent: https://exp.host/@catalinmiron/react-native-dating-app
+
 ![react-native-dating-app](https://cloud.githubusercontent.com/assets/2805320/24679653/81e88b3a-1996-11e7-9474-db82d5cb0e20.gif)
+![react-native-dating-app](https://github.com/PerfectSolution1106/expo-RN-dating-app/blob/master/dating_animated_2.gif)
 
 
 ----
@@ -14,6 +18,7 @@ Stack:
 
 ----
 
+![Aristotle](http://images.gr-assets.com/authors/1390143800p2/2192.jpg)
 > “For the things we have to learn before we can do them, we learn by doing them.”
 
 ― Aristotle, The Nicomachean Ethics
