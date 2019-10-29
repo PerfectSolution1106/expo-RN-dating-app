@@ -4,7 +4,6 @@ import {
   LayoutAnimation,
   ScrollView,
   Animated,
-  TouchableOpacity,
   Alert,
   Image,
   Dimensions,
@@ -62,7 +61,6 @@ export default class App extends Component {
   componentDidMount() {
     StatusBar.setBarStyle('light-content');
   }
-
   render() {
     return (
       <NavigationProvider router={Router}>
